@@ -6,10 +6,13 @@
 - Took classes over the summer for science and bio
 
 ## Employment History
-- Worked in my moms apparel store ass the cashier, and stocker
+- Worked in my moms apparel store as the cashier, and stocker
 - Pressure washed the driveway twice
-- Babysitter
+- Babysitter for a family friend
 
 ## Hobbies
 - Soccer 
   - Played for tophat, ufa, and now currently at Lazers.
+- Painting
+- skateboarding
+
