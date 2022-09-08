@@ -4,6 +4,7 @@
 ## Truth Tables
 
 Not
+
 ex.)
 
 | A | !A |
@@ -18,6 +19,7 @@ ex.)
 
 
 And
+
 ex.)
 
 | A | B | A and B |
@@ -35,6 +37,7 @@ ex.)
 | 0 | 0 | 0 |
 
 Or 
+
 ex.)
 
 | A | B | A or B |
