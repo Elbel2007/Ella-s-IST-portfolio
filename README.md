@@ -3,5 +3,5 @@ Hello my name is Ella Langabeer, this is my portfolio for IST. I am a student at
 
 ## Contents
 - [Resume](RESUME.md)
-- [Programming Language Table](PROGRAMMING-LANGUAGE.md)
+- [Programming Language Table](PROGRAMING-LANGUAGE.md)
 - [Binary Logic Tables](Binary-Logic.md)
