@@ -3,7 +3,8 @@
 
 ## Truth Tables
 
-- Not
+Not
+
 | A | !A |
 | --- | --- |
 | 1 | 0 |
