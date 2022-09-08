@@ -14,5 +14,5 @@
 - Soccer 
   - Played for tophat, ufa, and now currently at Lazers.
 - Painting
-- skateboarding
+
 
