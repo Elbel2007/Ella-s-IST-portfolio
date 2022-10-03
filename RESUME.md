@@ -19,6 +19,6 @@
 - took one quarter of a typing class.
 - ↓ currently taking lessons on typing.com ↓
   - ### keys learned this semester (updated periodically) 
-    - J, F, K, space, U, R
+    - J, F, K, space, U, R, K
 
 
