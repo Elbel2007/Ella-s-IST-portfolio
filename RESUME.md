@@ -14,5 +14,9 @@
 - Soccer 
   - Played for tophat, ufa, and now currently at Lazers.
 - Painting
+- 
+- ## Typing 
+- took one quarter of a typing class.
+- currently taking lessons on typing.com
 
 
