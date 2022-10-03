@@ -18,5 +18,7 @@
 ## Typing 
 - took one quarter of a typing class.
 - currently taking lessons on typing.com
+  - # keys learned
+    - J,F,K,space,U,R
 
 
