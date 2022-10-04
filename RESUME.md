@@ -17,8 +17,10 @@
 - 
 ## Typing 
 - took one quarter of a typing class.
+- WPM:33
 - ↓ currently taking lessons on typing.com ↓
   - ### keys learned this semester (updated periodically) 
-    - J, F, K, space, U, R, K
+    - J, F, K, U, R, K, D, E, I
+    - SPACE,
 
 
